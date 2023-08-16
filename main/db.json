@@ -1,0 +1,138 @@
+{
+    "goods": [
+      {
+        "title": "KITCHEN TABLE",
+        "image": "https://www.stilkuhni.ru/upload/iblock/0f5/93b34dhitzbcvi48f433f6s68xdnbsvy/Leonardo_5034_1490_860_1_.jpg",
+        "price": "300$",
+        "id": 2,
+        "description": ""
+      },
+      {
+        "title": "KITCHEN CHAIR",
+        "image": "https://latqvbedpllwqek.skdesign.ru/wp-content/uploads/2020/11/157284_001_Kolumbus_1_Jazz_Pastel_Blue--w_500.webp",
+        "price": "200$",
+        "id": 3,
+        "description": ""
+      },
+      {
+        "title": "RUSSIAN HEADSET",
+        "image": "https://static.insales-cdn.com/r/NSnOPgeDH2M/rs:fit:1000:0:1/plain/images/products/1/6143/364869631/signal-2020-05-30-183253.jpg",
+        "price": "1200$",
+        "id": 4,
+        "description": ""
+      },
+      {
+        "title": "HEADSET",
+        "image": "https://m.pm.ru/global_images/goods/274/21b/c4c/f90/1373128_original.jpg",
+        "price": "1250$",
+        "id": 5,
+        "description": ""
+      },
+      {
+        "title": "CHAIR",
+        "image": "https://res.cloudinary.com/lmru-test/image/upload/elbrus/images/landing-images/15/stoly-i-stuly/stul%20kraslo2.jpg",
+        "price": "203$",
+        "id": 6,
+        "description": ""
+      },
+      {
+        "title": "TABLE",
+        "image": "https://static.insales-cdn.com/images/products/1/8019/417259347/14.102.108.02_interior1.jpg",
+        "price": "300$",
+        "id": 7,
+        "description": ""
+      },
+      {
+        "title": "SOFA",
+        "image": "https://remont-f.ru/upload/iblock/944/dizayn-interyera-4-komnatnoj-kvartiry-134-kv-m-foto-11-3963.jpg",
+        "price": "800$",
+        "id": 8,
+        "description": ""
+      },
+      {
+        "title": "CABINETS",
+        "image": "https://www.mrdoors.ru/upload/resize_cache/webp/iblock/21a/n6wg8eml3h2z8zl48116qg1ma14wl6ws/Lvr200_F1.webp",
+        "price": "1700$",
+        "id": 9,
+        "description": ""
+      },
+      {
+        "title": "CHEST OF DRAWERS",
+        "image": "https://deco-mollis.ru/upload/iblock/581/581866102ddecf066498bdd79e0a8ed5.jpg",
+        "price": "900$",
+        "id": 10
+      },
+      {
+        "title": "CHEST OF DRAWERS+CABINETS",
+        "image": "https://design-homes.ru/images/galery/2297/komody-v-gostinuyu-foto_5efcb9119ef63.jpg",
+        "price": "1500$",
+        "id": 11,
+        "description": ""
+      },
+      {
+        "title": "SOFA",
+        "image": "https://candellabra-magazine.storage.yandexcloud.net/media/post/6031/2.jpg",
+        "price": "1490$",
+        "id": 12
+      },
+      {
+        "title": "OFFICE FURNITURE",
+        "image": "https://mebeldan.ru/upload/iblock/88f/1.jpg",
+        "price": "1399$",
+        "id": 13
+      },
+      {
+        "title": "OFFICE FURNITURE",
+        "image": "https://www.pioner.ru/mebel/206/09-mebel-dlya-personala.jpg",
+        "price": "1340$",
+        "id": 14,
+        "description": ""
+      },
+      {
+        "title": "OFFICE CHAIR",
+        "image": "https://designmyhome.ru/sites/default/files/field/image/105/ofisnaya_mebel.jpg",
+        "price": "150$",
+        "id": 15,
+        "description": ""
+      },
+      {
+        "title": "OFFICE CHAIR",
+        "image": "https://abc-project.ru/upload/resize_cache/webp/iblock/70b/584_584_1/70b6b02ce35b211f5bb0c5feb769a673.webp",
+        "price": "150$",
+        "id": 16,
+        "description": ""
+      },
+      {
+        "title": "CABINETS",
+        "image": "https://www.amfactory.kz/cms/uploads/images/ofisnye-shkafy-contenitori-foto-22-x.jpg",
+        "price": "1000$",
+        "id": 17,
+        "description": ""
+      },
+      {
+        "title": "CHEST OF DRAWERS",
+        "image": "https://www.orgmebel.ru/upload/iblock/6fc/6fca83a71ca5421da1c854c30b714a5c.jpg",
+        "price": "400$",
+        "id": 18
+      },
+      {
+        "title": "OFFICE FURNITURE",
+        "image": "https://mebeldan.ru/upload/iblock/62d/3.jpg",
+        "price": "3000$",
+        "id": 19,
+        "description": ""
+      },
+      {
+        "title": "SOFA",
+        "image": "https://mebelin.kg/uploads/catalog/material/full/1589006871_56059300.jpg",
+        "price": "1290$",
+        "id": 20
+      },
+      {
+        "title": "CHAIR",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6BV3q8FQfWFSMsg1CpGrlq127nyv6pdVXOg&usqp=CAU",
+        "price": "1399$",
+        "id": 21
+      }
+    ]
+  }
